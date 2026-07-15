@@ -107,9 +107,5 @@ This project strengthened my understanding of:
 
 ## Author
 
-**Nesreen Younis**
+**Hoodiegal**
 
-Aspiring Cybersecurity, Networking & IoT Professional
-
-LinkedIn:
-https://www.linkedin.com/in/nasrin-younis
